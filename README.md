@@ -6,7 +6,7 @@
  
  
 Install :
-pip3 install pandas
-pip3 install matplotib
-jupyter-notebook
+    - pip3 install pandas
+    - pip3 install matplotib
+    - jupyter-notebook
 
