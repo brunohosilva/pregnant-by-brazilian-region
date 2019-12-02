@@ -1,2 +1,2 @@
-# pregnant-by-brazilian-region
-Projeto dedicado a matéria de banco de dados do 5° semestre da faculdade de Analise e desenvolvimento de sistemas da FATEC sjc
+# DataSciencePregnancyRate
+ This project was dedicated to knowing the pregnancy rate separated by an age interval in Brazil
